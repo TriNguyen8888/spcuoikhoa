@@ -1,0 +1,58 @@
+let shopItemsData = [
+  {
+    id: "jfhgbvnscs",
+    name: "60 Minutes T-shirt",
+    price: 20,
+    desc: "Certified Organic Cotton t-shirt, 155g/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria.",
+    img: "images/60.webp",
+  },
+  {
+    id: "ioytrhndcv",
+    name: "Earth Hour T-shirt",
+    price: 20,
+    desc: "Certified Organic Cotton t-shirt, 155g/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria.",
+    img: "images/hour.webp",
+  },
+  {
+    id: "wuefbncxbsn",
+    name: "Earth Hour Logo T-shirt",
+    price: 20,
+    desc: "Certified Organic Cotton t-shirt, 155g/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria.",
+    img: "images/logo.webp",
+  },
+  {
+    id: "thyfhcbcv",
+    name: "#MyHourForEarth T-shirt",
+    price: 20,
+    desc: "Certified Organic Cotton t-shirt, 155g/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria.",
+    img: "images/myhour.webp",
+  },
+  {
+    id: "thiecbawdjksadjk",
+    name: "Earth Hour Together T-shirt",
+    price: 20,
+    desc: "Certified Organic Cotton t-shirt, 155g/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria.",
+    img: "images/together.webp",
+  },
+  {
+    id: "iuertrywebncdjksadjk",
+    name: "People And Nature Tote Bag",
+    price: 12,
+    desc: "Organic Cotton Tote Bag. Twill Weave (170gsm). 37 x 42 cm (7cm gusset.) Made in VIETNAM / Designed on the Isle of Wight. Wash Cool, Hang Dry. Available in black.",
+    img: "images/stop.webp",
+  },
+  {
+    id: "thierytbvcbvzdhadjk",
+    name: "Arctic Tote Bag",
+    price: 12,
+    desc: "Organic Cotton Tote Bag. Twill Weave (170gsm). 37 x 42 cm (7cm gusset.) Made in VIETNAM / Designed on the Isle of Wight. Wash Cool, Hang Dry. Available in black.",
+    img: "images/arctic.webp",
+  },
+  {
+    id: "trfoiwfcnbcawdjksadjk",
+    name: "Be Kind To Earth Jungle Tote Bag",
+    price: 12,
+    desc: "Organic Cotton Tote Bag. Twill Weave (170gsm). 37 x 42 cm (7cm gusset.) Made in VIETNAM / Designed on the Isle of Wight. Wash Cool, Hang Dry. Available in black..",
+    img: "images/bekind.webp",
+  },
+];
